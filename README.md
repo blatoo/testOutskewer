@@ -1,3 +1,7 @@
+#This is a copy from sheymann:
+
+https://github.com/sheymann/outskewer
+
 Free and open-source implementation in **R** of [*Outskewer*](https://github.com/sheymann/outskewer), a method to detect outliers in data sets of numbers and in time series. It is distributed under the [MIT License](https://github.com/sheymann/outskewer.r/blob/master/LICENSE.txt).
 
 ###Usage
